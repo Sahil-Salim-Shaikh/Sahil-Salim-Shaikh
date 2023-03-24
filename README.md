@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sahil Shaikh
 - 👀 I’m  Analytical, solutions-oriented Java software development professional passionate to work in Software
       Development Industry.
-- 🌱 I’m currently learning core java and honing my skills.
+- 🌱 I’m currently learning java and honing my skills.
 - 💞️ I’m looking to collaborate on java projects.
 
 
