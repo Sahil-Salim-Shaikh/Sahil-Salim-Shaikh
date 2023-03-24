@@ -2,7 +2,7 @@
 - 👀 I’m  Analytical, solutions-oriented Java software development professional passionate to work in Software
       Development Industry.
 - 🌱 I’m currently learning core java and honing my skills.
-- 💞️ I’m looking to collaborate on core java projects.
+- 💞️ I’m looking to collaborate on java projects.
 
 
 <!---
