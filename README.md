@@ -14,8 +14,7 @@ I'm a Java developer with a love for clean code, software architecture, and prob
 *   ✉️  You can contact me at [sahilsalimshaikh15@gmail.com](sahilsalimshaikh15@gmail.com)
 *   🚀  I'm currently working on Spring Boot Projects.
 *   🤝  I'm open to collaborating on Java Development, Android Development, Web Development, PHP, MySQL, SQL, JavaScript, CSS.
-*   img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 🚀 Here's what you can expect from my repositories:
 - Java projects and code samples
 - Exploration of Java's vast ecosystem, from Spring to Android
