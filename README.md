@@ -10,7 +10,7 @@ I'm a Java developer with a love for clean code, software architecture, and prob
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 *   🌍  I'm based in Pune, India
-*   🖥️  See my portfolio at [MyPortfolio](https://sahil-salim-shaikh.github.io/Portfolio/)
+*   🖥️  See my portfolio at [MyPortfolio](https://sahil-shaikh-portfolio.netlify.app/)
 *   ✉️  You can contact me at [sahilsalimshaikh15@gmail.com](sahilsalimshaikh15@gmail.com)
 *   🚀  I'm currently working on Spring Boot Projects.
 *   🤝  I'm open to collaborating on Java Development, Android Development, Web Development, PHP, MySQL, SQL, JavaScript, CSS.
