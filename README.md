@@ -25,16 +25,34 @@ I'm a Java developer with a love for clean code, software architecture, and prob
 
 ### 🧠 Skills
 
+## 🧠 Technical Skills
+
+### 🚀 Backend Development
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" alt="Java"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" height="40" alt="Spring Boot"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
+</p>
+
+### 🔐 Identity & Access Management
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/ServiceNow_logo.svg" height="40" alt="ServiceNow"/>
+  <img src="https://seeklogo.com/images/S/sailpoint-logo-5F76F5A0F2-seeklogo.com.png" height="40" alt="SailPoint IIQ"/>
+</p>
+
+### 🌐 Web Technologies
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40" alt="React"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
+</p>
+
+### ⚙️ Tools & Others
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" alt="Git"/>
 </p>
+
 ### Skills
 <p align="left">
                                 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
