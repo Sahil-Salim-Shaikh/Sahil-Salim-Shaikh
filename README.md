@@ -23,6 +23,14 @@ I'm a Java developer with a love for clean code, software architecture, and prob
 
 🌱 Currently, I'm honing my skills in Java and related technologies. I'm passionate about continuous learning and sharing knowledge. Let's connect, learn, and build together!
 
+## 🌱 Current Focus
+
+Currently building expertise in **Java, ServiceNow, and SailPoint**, with a focus on **secure and scalable systems**.
+
+💡 Passionate about continuous learning and knowledge sharing  
+🤝 Let’s connect, learn, and build together  
+
+---
 
 ### Skills
 <p align="left">
