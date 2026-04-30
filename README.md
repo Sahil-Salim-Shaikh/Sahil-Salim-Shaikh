@@ -65,6 +65,26 @@ I'm a Java developer with a love for clean code, software architecture, and prob
                                 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored-dark.svg" width="36" height="36" alt="XD" /></a>
 </p>
 
+### 🌐 Socials
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/sahil-salim-shaikh/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32"/>
+  </a>
+
+  <a href="https://www.instagram.com/mr_sahil__015/?next=%2F" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32"/>
+  </a>
+
+  <a href="https://www.stackoverflow.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32"/>
+  </a>
+
+  <a href="https://www.twitter.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32"/>
+  </a>
+</p>
+
 ### Socials
 <p align="left"> 
    <a href="https://www.linkedin.com/in/sahil-salim-shaikh/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
