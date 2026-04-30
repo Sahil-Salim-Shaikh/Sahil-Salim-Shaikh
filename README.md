@@ -25,7 +25,6 @@ I'm a Java developer with a love for clean code, software architecture, and prob
 
 ### 🛠️ Skills
 
-### 💻 Backend
 <p align="left">
   <a href="https://www.oracle.com/java/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36"/></a>
   <a href="https://spring.io/" target="_blank"><img src="https://spring.io/img/spring.svg" width="36"/></a>
