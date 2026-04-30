@@ -40,9 +40,14 @@ I'm a Java developer with a love for clean code, software architecture, and prob
   <a href="https://redux.js.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36"/></a>
   <a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36"/></a>
+<a href="https://www.servicenow.com/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/ServiceNow_logo.svg" width="36"/>
+</a>
 
-   <img src="https://img.shields.io/badge/ServiceNow-Platform-green?style=for-the-badge&logo=servicenow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SailPoint-IdentityIQ-blue?style=for-the-badge"/>
+<a href="https://www.sailpoint.com/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/SailPoint_logo.svg" width="36"/>
+</a>
+ 
 
 </p>
 
